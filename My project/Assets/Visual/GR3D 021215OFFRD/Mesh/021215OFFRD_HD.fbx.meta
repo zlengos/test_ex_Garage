@@ -1,0 +1,225 @@
+fileFormatVersion: 2
+guid: c0c13ba4add6fb44b8fd3c08467a6e0f
+timeCreated: 1488333940
+licenseType: Store
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: body
+    100004: bull bars
+    100006: bumper front
+    100008: bumper rear
+    100010: Caliper FL
+    100012: Caliper FR
+    100014: Caliper RL
+    100016: Caliper RR
+    100018: driver
+    100020: exhaust
+    100022: interior
+    100024: LED lights
+    100026: offroad lights 4 narrow
+    100028: offroad lights 4 wide
+    100030: roll bars
+    100032: roof rack
+    100034: skidplate
+    100036: spare tire
+    100038: steering wheel
+    100040: step bars
+    100042: suspension
+    100044: tail gate
+    100046: tire carrier
+    100048: tow hitch
+    100050: tow hooks
+    100052: Whl HD FL
+    100054: Whl HD FR
+    100056: Whl HD RL
+    100058: Whl HD RR
+    100060: winch
+    400000: //RootNode
+    400002: body
+    400004: bull bars
+    400006: bumper front
+    400008: bumper rear
+    400010: Caliper FL
+    400012: Caliper FR
+    400014: Caliper RL
+    400016: Caliper RR
+    400018: driver
+    400020: exhaust
+    400022: interior
+    400024: LED lights
+    400026: offroad lights 4 narrow
+    400028: offroad lights 4 wide
+    400030: roll bars
+    400032: roof rack
+    400034: skidplate
+    400036: spare tire
+    400038: steering wheel
+    400040: step bars
+    400042: suspension
+    400044: tail gate
+    400046: tire carrier
+    400048: tow hitch
+    400050: tow hooks
+    400052: Whl HD FL
+    400054: Whl HD FR
+    400056: Whl HD RL
+    400058: Whl HD RR
+    400060: winch
+    2300000: body
+    2300002: bull bars
+    2300004: bumper front
+    2300006: bumper rear
+    2300008: Caliper FL
+    2300010: Caliper FR
+    2300012: Caliper RL
+    2300014: Caliper RR
+    2300016: driver
+    2300018: exhaust
+    2300020: interior
+    2300022: LED lights
+    2300024: offroad lights 4 narrow
+    2300026: offroad lights 4 wide
+    2300028: roll bars
+    2300030: roof rack
+    2300032: skidplate
+    2300034: spare tire
+    2300036: steering wheel
+    2300038: step bars
+    2300040: suspension
+    2300042: tail gate
+    2300044: tire carrier
+    2300046: tow hitch
+    2300048: tow hooks
+    2300050: Whl HD FL
+    2300052: Whl HD FR
+    2300054: Whl HD RL
+    2300056: Whl HD RR
+    2300058: winch
+    3300000: body
+    3300002: bull bars
+    3300004: bumper front
+    3300006: bumper rear
+    3300008: Caliper FL
+    3300010: Caliper FR
+    3300012: Caliper RL
+    3300014: Caliper RR
+    3300016: driver
+    3300018: exhaust
+    3300020: interior
+    3300022: LED lights
+    3300024: offroad lights 4 narrow
+    3300026: offroad lights 4 wide
+    3300028: roll bars
+    3300030: roof rack
+    3300032: skidplate
+    3300034: spare tire
+    3300036: steering wheel
+    3300038: step bars
+    3300040: suspension
+    3300042: tail gate
+    3300044: tire carrier
+    3300046: tow hitch
+    3300048: tow hooks
+    3300050: Whl HD FL
+    3300052: Whl HD FR
+    3300054: Whl HD RL
+    3300056: Whl HD RR
+    3300058: winch
+    4300000: body
+    4300002: bumper front
+    4300004: bull bars
+    4300006: bumper rear
+    4300008: interior
+    4300010: steering wheel
+    4300012: driver
+    4300014: step bars
+    4300016: suspension
+    4300018: skidplate
+    4300020: winch
+    4300022: tow hooks
+    4300024: offroad lights 4 narrow
+    4300026: roll bars
+    4300028: offroad lights 4 wide
+    4300030: tire carrier
+    4300032: spare tire
+    4300034: roof rack
+    4300036: LED lights
+    4300038: tow hitch
+    4300040: tail gate
+    4300042: exhaust
+    4300044: Caliper RR
+    4300046: Whl HD RR
+    4300048: Caliper FR
+    4300050: Whl HD FR
+    4300052: Caliper FL
+    4300054: Whl HD FL
+    4300056: Caliper RL
+    4300058: Whl HD RL
+    7400000: modo_Anim
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
